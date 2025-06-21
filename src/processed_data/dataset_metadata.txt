@@ -1,0 +1,5 @@
+locations: ['Bambili', 'Bamenda', 'Boufassam', 'Yaounde']
+date_range: 1950-01-01 00:00:00 to 2024-07-04 00:00:00
+total_records: 108856
+variables: ['Temperature', 'Humidity', 'Irradiance', 'Potential', 'WindSpeed']
+processing_date: 2025-06-21 07:59:14
